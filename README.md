@@ -21,7 +21,7 @@ Follow these steps to create and mint SPL tokens:
 2. **Navigate to the project directory** using the command:
 
    ```bash
-   cd Solana-Memecoin-Generator
+   cd Solana-Memecoin-Generator-and-Pump
    ```
 
 3. **Ensure that Node.js is installed** on your system. If not, download it here:
